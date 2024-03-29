@@ -6,10 +6,7 @@ namespace logIn_UI
     {
         static void Main(string[] args)
         {
-         /* 
-          Mark Ian G. Betasa
-          BSCPE 1-1
-         */
+
             //Create a login ui 
             //Enter username and password (respectively)
             //Have three attempts before failed attempt
