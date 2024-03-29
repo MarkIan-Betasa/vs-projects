@@ -1,0 +1,14 @@
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\bin\Debug\net8.0\time conversion (1).exe
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\bin\Debug\net8.0\time conversion (1).deps.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\bin\Debug\net8.0\time conversion (1).runtimeconfig.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\bin\Debug\net8.0\time conversion (1).dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\bin\Debug\net8.0\time conversion (1).pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).AssemblyInfoInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).AssemblyInfo.cs
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).csproj.CoreCompileInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\refint\time conversion (1).dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\time conversion (1).genruntimeconfig.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\time conversion (1)\time conversion (1)\obj\Debug\net8.0\ref\time conversion (1).dll
