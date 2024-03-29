@@ -4,10 +4,6 @@
         {
             static void Main(string[] args)
             {
-            /*
-                Mark Ian G. Betasa
-                BSCPE 1-1
-            */
                 //create increment (100)
                 //modulus 15 == "Hello Goodbye"
                 //modulus 3 == "Hello"
